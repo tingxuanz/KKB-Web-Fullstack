@@ -10,12 +10,12 @@
 
 1. 用户可以使用代码做任何想做的事情
 2. 用户自己承担使用代码的风险
-3. 用户需说明代码的作者
+3. 用户需说明代码的作者
 
-### Copyleft licenses的特点
+### Copyleft licenses的特点
 Copyleft licenses除了有permissive licenses的特点以为，还有以下要求
 1. 如果分发二进制代码，必须提供源代码
-2. 如果在你自己的代码中使用了具有Copyleft许可证的代码，则新的代码必须使用相同的许可证
+2. 如果在你自己的代码中使用了具有Copyleft许可证的代码，则新的代码必须使用相同的许可证
 3. 不得在许可证之外添加额外限制
 
 简单概括的说就是Copyleft许可证比Permissive许可证的要求更严格
@@ -33,5 +33,5 @@ Copyleft licenses除了有permissive licenses的特点以为，还有以下要�
 
 ## 一张图说明如何选择开源许可证
 
-来自[阮一峰老师的博客](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
+来自[阮一峰老师的博客](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 ![如何选择开源许可证](./opensource-licenses.png)
